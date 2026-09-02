@@ -1,0 +1,4 @@
+Project Planning
+
+I want to make a homepage about my favorite band NCT.
+Especially, I want to make a Youtube video gallery.
